@@ -1,0 +1,13 @@
+{
+  "name": "@test--nx-nextjs-server-actions/nextjs-1",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "nextjs-1"
+  },
+  "dependencies": {
+    "next": "~15.2.4",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  }
+}
