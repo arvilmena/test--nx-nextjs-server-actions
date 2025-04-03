@@ -8,6 +8,9 @@
     },
     {
       "path": "./apps/nextjs-1"
+    },
+    {
+      "path": "./packages/ui"
     }
   ]
 }
